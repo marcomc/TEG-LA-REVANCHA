@@ -381,7 +381,8 @@ El jugador comienza su turno contando el número de países que ocupa en ese mom
 Estos ejércitos se distribuyen libremente por todo el mapa, siempre en países propios o en condominio (véase “Pactos de agresión y países en condominio”).
 
 **2) Por continentes ocupados**  
-Si al comenzar su turno el jugador ocupa uno o más continentes en su totalidad tiene derecho a incorporar, además de los ejércitos que le corresponden por países, un número adicional de ejércitos por continente según la siguiente tabla:  
+Si al comenzar su turno el jugador ocupa uno o más continentes en su totalidad tiene derecho a incorporar, además de los ejércitos que le corresponden por países, un número adicional de ejércitos por continente según la siguiente tabla:
+
 | Continente           | Ejércitos |
 |----------------------|-----------|
 | ASIA                 | 8         |
@@ -398,15 +399,15 @@ Si al comenzar su turno el jugador ocupa uno o más continentes en su totalidad 
 Ahora el jugador conserva las tarjetas de países que tiene en su poder.  
 Cada tarjeta de países lleva impreso un símbolo: soldados, avión, tanque, granada y barco. Si el jugador posee **tres con el mismo símbolo** (por ej. soldado/soldado/soldado), o **tres con símbolos distintos** (por ej. avión/soldado/barco), **tiene derecho a canjear estas tres tarjetas por ejércitos adicionales**: las muestra al resto de los participantes, las coloca boca abajo en el mazo a un costado del tablero (cuando se acaba el mazo inicial se mezclan todas y se usan nuevamente), e incorpora y distribuye libremente entre sus países los ejércitos que le correspondan según la tabla siguiente.
 
-| Canje | Ejércitos |
-|-------|-----------|
-| 1º canje | 6 ejércitos |
+| Canje    | Ejércitos    |
+|----------|--------------|
+| 1º canje | 6 ejércitos  |
 | 2º canje | 10 ejércitos |
 
 De aquí en adelante se aumentan cinco ejércitos por vez:
 
-| | |
-|---------|-----------|
+|          |              |
+|----------|--------------|
 | 3º canje | 15 ejércitos |
 | 4º canje | 20 ejércitos |
 
