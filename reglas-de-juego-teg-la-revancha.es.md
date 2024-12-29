@@ -71,6 +71,8 @@ La mecánica de las batallas se basa en el tiro de los dados, pero toma en cuent
 
 [Regreso al inicio](#teg-la-revancha---reglas-de-juego)
 
+---
+
 ## **II. ELEMENTOS DEL JUEGO**
 
 ### **MATERIALES**
@@ -85,6 +87,8 @@ Cada participante del juego será dueño de una caja de fichas y dispondrá de 1
 **8 dados, 7 tarjetas de continentes, 20 tarjetas de objetivos secretos, 50 tarjetas de situación, 1 tarjeta de mano, misiles, manual de instrucciones, planilla de pactos y canje.**
 
 [Regreso al inicio](#teg-la-revancha---reglas-de-juego)
+
+---
 
 ## **III. INSTRUCCIONES INICIALES**
 
@@ -119,6 +123,8 @@ La frecuente consulta de la lista de objetivos es recomendada para tratar de des
 Un objetivo de destrucción de un color puede ser imposible desde el comienzo ya sea porque quien posee el objetivo es precisamente el jugador que tiene ese color, o porque nadie juega con ese color (lo que puede suceder si participan menos de 6 personas). En tal caso, el objetivo pasa a ser el de eliminarlos ejércitos del jugador sentado a su derecha.
 
 [Regreso al inicio](#teg-la-revancha---reglas-de-juego)
+
+---
 
 ## **IV. INICIO DEL JUEGO - PRIMERA RONDA**
 
@@ -357,6 +363,8 @@ hostilidades.
 
 [Regreso al inicio](#teg-la-revancha---reglas-de-juego)
 
+---
+
 ## **V. CONTINUACIÓN DEL JUEGO - SEGUNDA RONDA y SIGUIENTES**
 
 Una vez concluida la primera vuelta de hostilidades, el turno de los jugadores se modifica: **el jugador que inició las hostilidades será ahora el último en jugar y el que fue durante la vuelta inicial el segundo en jugar, será ahora el primero. Este mecanismo se repetirá de ahora en más durante el resto del partido.**
@@ -442,6 +450,8 @@ Para tener **derecho a recibir una tarjeta de países al finalizar su turno**, e
 **2)** Al menos **2 países**, si ya efectuó **3 o más canjes**.
 
 [Regreso al inicio](#teg-la-revancha---reglas-de-juego)
+
+---
 
 ## **VI. CONSIDERACIONES ESPECIALES**
 
@@ -553,6 +563,8 @@ El resto de la mecánica del juego es igual a la explicada anteriormente.
 
 [Regreso al inicio](#teg-la-revancha---reglas-de-juego)
 
+---
+
 ## **VII. ANEXO**
 
 ### **LISTA DE OBJETIVOS**
@@ -602,3 +614,5 @@ Estas reglas son recavada desde el juego de mesa TEG LA REVANCHA publicado por *
 Arte y diseño: **María M. Aramburu / Facundo Segura**
 
 [Regreso al inicio](#teg-la-revancha---reglas-de-juego)
+
+---

@@ -69,6 +69,8 @@ La meccanica delle battaglie si basa sul lancio dei dadi, ma tiene conto della q
 
 [Ritorno all'inizio](#teg-la-rivincita---regole-di-gioco)
 
+---
+
 ## **II. ELEMENTI DEL GIOCO**  
 
 ### **MATERIALI**
@@ -83,6 +85,8 @@ Ogni partecipante al gioco possiederà una scatola di pedine e disporrà di 100 
 **8 dadi, 7 carte dei continenti, 20 carte degli obiettivi segreti, 50 carte delle situazioni, 1 carta in mano, missili, manuale d'istruzioni, tabella dei patti e scambio.**
 
 [Ritorno all'inizio](#teg-la-rivincita---regole-di-gioco)
+
+---
 
 ## **III. ISTRUZIONI INIZIALI**
 
@@ -117,6 +121,8 @@ La frequente consultazione della lista degli obiettivi è raccomandata per cerca
 Un obiettivo di distruzione di un colore può essere impossibile fin dall'inizio sia perché chi possiede l'obiettivo è proprio il giocatore che ha quel colore, sia perché nessuno gioca con quel colore (cosa che può accadere se partecipano meno di 6 persone). In tal caso, l'obiettivo diventa quello di eliminare gli eserciti del giocatore seduto alla sua destra.
 
 [Ritorno all'inizio](#teg-la-rivincita---regole-di-gioco)
+
+---
 
 ## **IV. INIZIO DEL GIOCO - PRIMO ROUND**
 
@@ -332,6 +338,8 @@ Le tre fasi appena spiegate (attaccare, raggruppare, pescare una carta) costitui
 
 [Ritorno all'inizio](#teg-la-rivincita---regole-di-gioco)
 
+---
+
 ## **V. PROSEGUIMENTO DEL GIOCO - SECONDO ROUND E SUCCESSIVI**
 
 Una volta concluso il primo round di ostilità, il turno dei giocatori si modifica: **il giocatore che ha iniziato le ostilità sarà ora l'ultimo a giocare e colui che è stato durante il round iniziale il secondo a giocare, sarà ora il primo. Questo meccanismo si ripeterà d'ora in avanti per il resto della partita.**
@@ -414,6 +422,8 @@ Per avere il **diritto di ricevere una carta dei paesi al termine del proprio tu
 **2)** Almeno **2 paesi**, se ha già effettuato **3 o più scambi**.
 
 [Ritorno all'inizio](#teg-la-rivincita---regole-di-gioco)
+
+---
 
 ## **VI. CONSIDERAZIONI SPECIALI**
 
@@ -522,6 +532,8 @@ Il resto della meccanica del gioco è uguale a quella spiegata in precedenza.
 
 [Ritorno all'inizio](#teg-la-rivincita---regole-di-gioco)
 
+---
+
 ## **VII. ALLEGATO**
 
 ### **LISTA DEGLI OBIETTIVI**
@@ -571,3 +583,5 @@ Queste regole sono state tratte dal gioco da tavolo TEG LA REVANCHA pubblicato d
 Arte e design: **María M. Aramburu / Facundo Segura**
 
 [Ritorno all'inizio](#teg-la-rivincita---regole-di-gioco)
+
+---
