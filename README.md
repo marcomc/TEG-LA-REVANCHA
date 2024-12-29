@@ -6,8 +6,8 @@ Bienvenido a T.E.G. La Revancha, un emocionante juego de estrategia donde los ju
 
 Para consultar las reglas completas del juego en español, por favor visita el siguiente enlace:
 
-[Reglas de Juego en Español](reglas-dejuego-teg-la-revancha.es.md)
-[Regole del Gioco in Italiano](regole-del-gioco-teg-la-rivincita.it.md)
+- [Reglas de Juego en Español](reglas-dejuego-teg-la-revancha.es.md)
+- [Regole del Gioco in Italiano](regole-del-gioco-teg-la-rivincita.it.md)
 
 ## Contenidos
 
